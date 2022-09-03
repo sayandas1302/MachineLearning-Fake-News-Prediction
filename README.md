@@ -1,2 +1,8 @@
 # MachineLearning-Fake-News-Prediction
-This project predicts a whether a news is fake or not based on the author and title name.
+In these project we are given with different news along with their heading author and the main text and indicator whether these news are fake or not(1 for fake news 0 for not a fake news). Here our target is to build up a machine learning model that will tell us whether a news is fake Or not based on the title name and the author name of the news.
+
+### Getting Started
+1. Firstly download the entire folder of the project.
+2. Create a virtual environment and install all the packages with the versions mentioned under 'requirements.txt' folder.
+3. Extract the zip file that is provided. which contains the dataset.
+4. Enjoy!
